@@ -1,6 +1,5 @@
 Git Hub Link :
-https://github.com/MalRakesh/Dev-Challenges/tree/main/project2
-
+https://github.com/MalRakesh/Business-Blog-Card
 
 Demo Link :
 https://businessblogcardbyrakeshmal-git-main-malrakeshs-projects.vercel.app/
