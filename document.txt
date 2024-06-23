@@ -1,0 +1,10 @@
+Git Hub Link :
+https://github.com/MalRakesh/Dev-Challenges/tree/main/project2
+
+
+Demo Link :
+https://businessblogcardbyrakeshmal-git-main-malrakeshs-projects.vercel.app/
+
+
+Dev Challenges Solution : 
+https://devchallenges.io/solution/25305
