@@ -2,6 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&color=ffffff&duration=4000&lines=🙏🏻+WELCOME+🙏🏻" />
 </h1>
 
+<br>
+
 # Business Blog Card
 
 This repository contains a business blog card project developed for Dev Challenges.
