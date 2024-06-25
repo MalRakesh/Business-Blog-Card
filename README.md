@@ -6,7 +6,7 @@
 
 This repository contains a business blog card project developed for Dev Challenges.
 
-<br>
+ 
 
 ## Table of Contents
 
@@ -20,19 +20,19 @@ This repository contains a business blog card project developed for Dev Challeng
 - [License](#license)
 - [Contact](#contact)
 
-<br>
+ 
 
 ## Description
 
 This project showcases a business blog card layout. It is part of the Dev Challenges series, focusing on front-end development skills.
 
-<br>
+ 
 
 ## Demo
 
 Check out the live demo [here](https://businessblogcardbyrakeshmal-malrakeshs-projects.vercel.app).
 
-<br>
+ 
 
 ## Dev Challenges
 
@@ -40,7 +40,7 @@ Check out the live demo [here](https://businessblogcardbyrakeshmal-malrakeshs-pr
 - **Profile:** [Rakesh Mal on Dev Challenges](https://devchallenges.io/profile/528836e9-2fc0-4e91-857e-19ffa7d0fa85)
 - **Solution:** [Business Blog Card Solution](https://devchallenges.io/solution/25305)
 
-<br>
+ 
 
 ## Installation
 
@@ -53,25 +53,25 @@ Check out the live demo [here](https://businessblogcardbyrakeshmal-malrakeshs-pr
    cd Business-Blog-Card
    ```
 
-<br>
+ 
 
 ## Usage
 
 Open `index.html` in your browser to view the project.
 
-<br>
+ 
 
 ## Configuration
 
 Details on how to configure the project, if applicable.
 
-<br>
+ 
 
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-<br>
+ 
 
 ## License
 
@@ -101,7 +101,7 @@ SOFTWARE.
 
 You can also view the full license text [here](https://opensource.org/licenses/MIT).
 
-<br>
+ 
 
 ## Contact
 
