@@ -10,7 +10,7 @@ This repository contains a business blog card project developed for Dev Challeng
 
 ## Table of Contents
 
-- Description
+- [Description](#description)
 - Demo
 - Dev Challenges
 - Installation
