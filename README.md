@@ -37,8 +37,8 @@ Check out the live demo [here](https://businessblogcardbyrakeshmal-malrakeshs-pr
 ## Dev Challenges
 
 - **Challenge:** Business Blog Card
-- **Solution:** [Business Blog Card Solution](https://devchallenges.io/solution/25305)
 - **Profile:** [Rakesh Mal on Dev Challenges](https://devchallenges.io/profile/528836e9-2fc0-4e91-857e-19ffa7d0fa85)
+- **Solution:** [Business Blog Card Solution](https://devchallenges.io/solution/25305)
 
 <br>
 
