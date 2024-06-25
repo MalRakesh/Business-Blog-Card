@@ -11,14 +11,14 @@ This repository contains a business blog card project developed for Dev Challeng
 ## Table of Contents
 
 - [Description](#description)
-- Demo
-- Dev Challenges
-- Installation
-- Usage
-- Configuration
-- Contributing
-- License
-- Contact
+- [Demo](#demo)
+- [Dev Challenges](#devchallenges)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [Contributing](#contribution)
+- [License](#license)
+- [Contact](#contact)
 
 <br>
 
